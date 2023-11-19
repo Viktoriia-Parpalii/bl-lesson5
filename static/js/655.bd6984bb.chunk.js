@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbl_lesson5=self.webpackChunkbl_lesson5||[]).push([[655],{655:(s,e,l)=>{l.r(e),l.d(e,{default:()=>n});l(791);var a=l(184);const n=()=>(0,a.jsx)("div",{children:"RatesPage"})}}]);
+//# sourceMappingURL=655.bd6984bb.chunk.js.map
