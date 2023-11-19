@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bl-lesson5/static/css/main.e6c13ad2.css",
+    "main.js": "/bl-lesson5/static/js/main.3b6f2b52.js",
+    "index.html": "/bl-lesson5/index.html",
+    "main.e6c13ad2.css.map": "/bl-lesson5/static/css/main.e6c13ad2.css.map",
+    "main.3b6f2b52.js.map": "/bl-lesson5/static/js/main.3b6f2b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3b6f2b52.js"
+  ]
+}
